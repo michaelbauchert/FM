@@ -7,6 +7,6 @@ The splash screen is not without purpose either; it activates Web Audio via a to
 
 ## Files of Interest
 - [script.js]()
--- You can find my modifications by searching for comments starting with //MB
+- - You can find my modifications by searching for comments starting with //MB
 - [index.html]()
 - [manifest.json]()
